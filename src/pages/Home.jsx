@@ -13,7 +13,8 @@ function Home() {
             </div>
 
             <a href="https://docs.google.com/spreadsheets/d/1mQlW1CC0opUDcVStqgjhaQYXxaEzl_Y--YvAM2p8ksk/edit?gid=2071383807#gid=2071383807" target="_blank">
-                <img src="../images/photo.jpg" alt="Моё фото" class="profile-photo"></img>
+            <img src="/images/photo.jpg" alt="Моё фото" className="profile-photo" />
+
             </a>
 
         <h1><Example /></h1>
@@ -38,7 +39,7 @@ function Home() {
                 }}>Реальные варианты ОГЭ</a>
 
             <a href="https://docs.google.com/spreadsheets/u/0/" target="_blank">
-            <img src="../images/google-sheets.jpg" alt="Моё фото" class="gsheets-photo"></img></a>
+            <img src="/images/google-sheets.jpg" alt="Моё фото" class="gsheets-photo"></img></a>
         </div>
 
         <hr></hr>
