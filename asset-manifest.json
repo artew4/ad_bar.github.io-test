@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ad_bar.github.io-test/static/css/main.b17eb838.css",
-    "main.js": "/ad_bar.github.io-test/static/js/main.4dae247b.js",
+    "main.css": "/ad_bar.github.io-test/static/css/main.42fca983.css",
+    "main.js": "/ad_bar.github.io-test/static/js/main.2232792d.js",
     "static/js/453.1f66187c.chunk.js": "/ad_bar.github.io-test/static/js/453.1f66187c.chunk.js",
     "static/media/react.svg": "/ad_bar.github.io-test/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
     "index.html": "/ad_bar.github.io-test/index.html",
-    "main.b17eb838.css.map": "/ad_bar.github.io-test/static/css/main.b17eb838.css.map",
-    "main.4dae247b.js.map": "/ad_bar.github.io-test/static/js/main.4dae247b.js.map",
+    "main.42fca983.css.map": "/ad_bar.github.io-test/static/css/main.42fca983.css.map",
+    "main.2232792d.js.map": "/ad_bar.github.io-test/static/js/main.2232792d.js.map",
     "453.1f66187c.chunk.js.map": "/ad_bar.github.io-test/static/js/453.1f66187c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b17eb838.css",
-    "static/js/main.4dae247b.js"
+    "static/css/main.42fca983.css",
+    "static/js/main.2232792d.js"
   ]
 }
