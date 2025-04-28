@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ad_bar.github.io-test/static/css/main.7a492c82.css",
-    "main.js": "/ad_bar.github.io-test/static/js/main.e11a40b4.js",
+    "main.css": "/ad_bar.github.io-test/static/css/main.d5602008.css",
+    "main.js": "/ad_bar.github.io-test/static/js/main.a534c52b.js",
     "static/js/453.1f66187c.chunk.js": "/ad_bar.github.io-test/static/js/453.1f66187c.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/ad_bar.github.io-test/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/ad_bar.github.io-test/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -65,12 +65,12 @@
     "static/media/react.svg": "/ad_bar.github.io-test/static/media/react.6d4dd5dfc6163bdfcfe520bd6bef1a6a.svg",
     "static/media/KaTeX_Size3-Regular.woff2": "/ad_bar.github.io-test/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/ad_bar.github.io-test/index.html",
-    "main.7a492c82.css.map": "/ad_bar.github.io-test/static/css/main.7a492c82.css.map",
-    "main.e11a40b4.js.map": "/ad_bar.github.io-test/static/js/main.e11a40b4.js.map",
+    "main.d5602008.css.map": "/ad_bar.github.io-test/static/css/main.d5602008.css.map",
+    "main.a534c52b.js.map": "/ad_bar.github.io-test/static/js/main.a534c52b.js.map",
     "453.1f66187c.chunk.js.map": "/ad_bar.github.io-test/static/js/453.1f66187c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a492c82.css",
-    "static/js/main.e11a40b4.js"
+    "static/css/main.d5602008.css",
+    "static/js/main.a534c52b.js"
   ]
 }
