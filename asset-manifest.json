@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ad_bar.github.io-test/static/css/main.60dc649b.css",
-    "main.js": "/ad_bar.github.io-test/static/js/main.075e5dac.js",
+    "main.css": "/ad_bar.github.io-test/static/css/main.b09c4c8b.css",
+    "main.js": "/ad_bar.github.io-test/static/js/main.6072ebbb.js",
     "static/js/453.bdd130e3.chunk.js": "/ad_bar.github.io-test/static/js/453.bdd130e3.chunk.js",
     "static/media/KaTeX_AMS-Regular.ttf": "/ad_bar.github.io-test/static/media/KaTeX_AMS-Regular.853be92419a6c3766b9a.ttf",
     "static/media/KaTeX_Main-Regular.ttf": "/ad_bar.github.io-test/static/media/KaTeX_Main-Regular.9eba1d77abcf2aa6e94e.ttf",
@@ -68,12 +68,12 @@
     "static/media/slick.eot": "/ad_bar.github.io-test/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/ad_bar.github.io-test/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/ad_bar.github.io-test/static/media/slick.295183786cd8a1389865.woff",
-    "main.60dc649b.css.map": "/ad_bar.github.io-test/static/css/main.60dc649b.css.map",
-    "main.075e5dac.js.map": "/ad_bar.github.io-test/static/js/main.075e5dac.js.map",
+    "main.b09c4c8b.css.map": "/ad_bar.github.io-test/static/css/main.b09c4c8b.css.map",
+    "main.6072ebbb.js.map": "/ad_bar.github.io-test/static/js/main.6072ebbb.js.map",
     "453.bdd130e3.chunk.js.map": "/ad_bar.github.io-test/static/js/453.bdd130e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.60dc649b.css",
-    "static/js/main.075e5dac.js"
+    "static/css/main.b09c4c8b.css",
+    "static/js/main.6072ebbb.js"
   ]
 }
