@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+# ADBar
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
-## Available Scripts
+**ADBar** — это образовательный сайт преподавателя **Artem Barabash**, посвящённый математике, физике, информатике и смежным дисциплинам. Проект создаётся как личная платформа для обмена знаниями, полезными материалами и запуска мини-проектов вместе с учениками.
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 📌 Что есть на сайте
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- **Сайт-визитка** — кратко о преподавателе и проектах
+- **Полезные материалы** для учеников:
+  - Математика (теория, задачи, формулы)
+  - Физика (разбор тем, практикумы)
+  - Информатика и программирование
+  - Русский язык — как дополнительная поддержка
+- **Ссылки на Google Таблицы** с домашними заданиями, расписанием, отслеживанием прогресса
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🚀 Будущие цели
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Создание **собственной обучающей платформы**
+- Возможность прохождения тем прямо на сайте
+- Добавление интерактивных задач и симуляций по физике и математике
+- Разработка **мини-проектов с учениками** (например: симуляции, визуализация формул, игры)
+- Ведение личных кабинетов для учеников
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Технологии
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Frontend: React + Vite + TailwindCSS
+- Backend (в планах): Django + MySQL
+- Хостинг: GitHub Pages / Vercel / (планируется VPS)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🤝 Как использовать
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Ты можешь свободно использовать этот сайт, вдохновляться идеей, делиться материалами с учениками или даже предлагать улучшения. Лицензия — MIT, см. [LICENSE](./LICENSE)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 📬 Контакты
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Если хочешь предложить сотрудничество, идею проекта или просто сказать спасибо — можешь связаться со мной:
 
-## Learn More
+- Email: `artew44@gmail.com`
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+---
 
-### Code Splitting
+## ❤️ Благодарности
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Спасибо ученикам, вдохновившим меня на этот проект. Сайт создаётся с любовью к образованию и желанием сделать обучение интересным и современным.
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
