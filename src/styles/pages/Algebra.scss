@@ -1,0 +1,129 @@
+.algebra-container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+  text-align: center;
+
+  h1 {
+    color: #1a1a1a;
+    margin-bottom: 2rem;
+  }
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.5rem;
+}
+
+.class-card {
+  text-align: center;
+  background-color: #f0f7ff;
+  border: 2px solid #2176ff;
+  border-radius: 16px;
+  padding: 2rem 1rem;
+  cursor: pointer;
+  transition: 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+
+  h2 {
+    margin: 0;
+    font-size: 1.5rem;
+    color: #2176ff;
+  }
+
+  &:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  }
+}
+.class-materials-link {
+  display: inline-block;
+  margin: 1rem auto 0;
+  padding: 0.75rem 1.5rem;
+  background-color: #2176ff;
+  color: white !important;
+  text-decoration: none;
+  border: none;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 1rem;
+  transition: background 0.3s ease, transform 0.2s ease;
+
+  &:hover {
+    background-color: #0d5fe0;
+    transform: translateY(-2px);
+  }
+
+  @media (max-width: 600px) {
+    font-size: 0.95rem;
+    padding: 0.6rem 1.2rem;
+  }
+}
+
+// Убрать синий цвет ссылок внутри модального окна
+.modal-content {
+  a {
+    color: inherit;
+  }
+}
+.centered-link {
+  text-align: center;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: white;
+  padding: 2rem;
+  border-radius: 16px;
+  max-width: 500px;
+  width: 90%;
+  text-align: left;
+  position: relative;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+
+  a {
+    display: inline-block;
+    margin-top: 1rem;
+    color: #2176ff;
+    font-weight: bold;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+
+  h3 {
+    margin-top: 0;
+    color: #1a1a1a;
+  }
+}
+
+.close-btn {
+  position: absolute;
+  top: 12px;
+  right: 16px;
+  font-size: 1.5rem;
+  background: none;
+  border: none;
+  color: #888;
+  cursor: pointer;
+
+  &:hover {
+    color: #000;
+  }
+}
+
+

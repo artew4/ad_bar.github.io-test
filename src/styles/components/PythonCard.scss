@@ -1,0 +1,35 @@
+.python-card {
+    background: #1e1e1e;
+    color: #f8f8f2;
+    border-radius: 16px;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+  
+    h3 {
+      color: #fff;
+      margin-bottom: 16px;
+      font-size: 20px;
+      text-align: center;
+    }
+  
+    pre {
+      border-radius: 12px !important;
+      font-size: 16px;
+      overflow-x: auto;
+    }
+  
+    @media (max-width: 600px) {
+      padding: 16px;
+  
+      h3 {
+        font-size: 18px;
+      }
+  
+      pre {
+        font-size: 14px;
+      }
+    }
+  }
+  

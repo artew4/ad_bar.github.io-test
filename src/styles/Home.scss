@@ -12,9 +12,10 @@
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   position: relative;
+  
 
   @media (max-width: 600px) {
-    width: 95%;
+    width: 90%;
     padding: 15px;
   }
 
@@ -38,6 +39,23 @@
   }
 }
 
+.example_wrapper {
+  height: 100px;
+  font-size: 80%;
+  max-width: 80%;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 20px;
+  position: relative;
+  @media (max-width: 600px) {
+    font-size: 10px;
+  }
+}
+
+
 .gsheets-photo {
   width: 200px;
   height: 70px;
@@ -45,6 +63,11 @@
   border-radius: 10px;
   margin: 15px 0;
 }
+.no-padding-link {
+  padding: 0 !important;
+  background: none !important;
+}
+
 
 h1 {
   color: #333;
@@ -73,17 +96,24 @@ p {
   flex-wrap: wrap;
 
   a {
-    display: inline-block;
-    padding: 15px 30px;
-    font-size: 18px;
+    display: inline-flex; /* Меняем на inline-flex для красивого transform */
+    align-items: center;
+    justify-content: center;
+    background-color: #4A90E2;
     color: white;
-    background-color: #0073e6;
     text-decoration: none;
-    border-radius: 8px;
-    transition: background 0.3s;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    transition: background-color 0.4s ease, transform 0.4s ease, box-shadow 0.4s ease;
+    min-width: 180px;
+    text-align: center;
 
     &:hover {
       background-color: #005bb5;
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     }
 
     @media (max-width: 600px) {
@@ -118,4 +148,20 @@ p {
   @media (max-width: 600px) {
     font-size: 16px;
   }
+}
+
+//анимированное появление страницы
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
 }

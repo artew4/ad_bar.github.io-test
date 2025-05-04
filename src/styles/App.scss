@@ -8,4 +8,7 @@ body {
   display: flex;
   justify-content: center;
   background-color: v.$background_color;
+  @media (max-width: 600px) {
+    width: 100%;
+  }
 }
